@@ -1,1 +1,2 @@
-# TheLightBooks_website
+# Website for The Light Books 
+http://thelightbooks.co.kr/
